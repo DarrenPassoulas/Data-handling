@@ -11,7 +11,7 @@ df2 = pd.read_csv("new.csv")
 
 # creating inputs for products and supplier
 # ex supplier = Natural Best
-# ex product = Poratoes
+# ex product = Potatoes
 Product_input = input("input product:")
 Supplier_input = input("Supplier:")
 
